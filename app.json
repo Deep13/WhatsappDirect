@@ -1,0 +1,8 @@
+{
+  "name": "WhatsappDirect",
+  "displayName": "WhatsappDirect",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-4717579333914549~9632467920",
+    "ios_app_id": "ca-app-pub-4717579333914549~9632467920"
+  }
+}
